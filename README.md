@@ -6,4 +6,4 @@ To accomplish this, the project will use Django to build a web application with 
 The todo app will be designed to be easy to use and customize, with a clean and intuitive interface. It will also be built with security in mind, incorporating measures such as user authentication and data encryption to protect the users' data.
 
 Overall, this project aims to create a feature-rich and user-friendly todo app using Django, providing a powerful tool for organizing and managing tasks.
-j
+
